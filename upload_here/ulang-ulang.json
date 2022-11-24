@@ -1,0 +1,25 @@
+{
+    "prompt": "Nia punya keponakan yang suka banget nonton youtube video yang sama!\nNia sampe capek harus ketik lagi hal yang sama buat nyari video di youtube.Bantu Nia yuk!\nTuliskan program yang dapat mengulang satu kata sampai paling ga tiga kali!",
+    "inputFormat": "N sama dengan 3, yaitu pengulangan sebanyak 3 kali.\nSatu kata yang terdiri dari huruf kapital atau huruf kecil,\n tidak boleh lebih dari 10 huruf",
+    "outputFormat": "Print kata yang telah diinput",
+    "exampleCount": 2,
+    "reviewVideoURL": "https://awesa.xyz/",
+    "reviewText": "Review Text",
+    "testCases": [
+        {
+            "input": "3\nCocomelon",
+            "output": "Cocomelon\nCocomelon\nCocomelon",
+            "order": 1
+        },
+        {
+            "input": "3\nPeppa",
+            "output": "Peppa\nPeppa\nPeppa",
+            "order": 2
+        },
+        {
+            "input": "3\nMUSIK",
+            "output": "MUSIK\nMUSIK\nMUSIK",
+            "order": 3
+        }
+    ]
+}

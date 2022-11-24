@@ -1,0 +1,25 @@
+{
+    "prompt": "Suatu hari lo dan teman-teman, pergi ke dufan buat naik bianglala. \n Sambil nunggu antrian, lo liat bianglala itu terus berputar ga berhenti-henti. \n Temen lo mulai hitung “1 bianglala, 2 bianglala..” dan seterusnya. \n Coba bantu temen lo dengan tuliskan program, yang akan ngebantu dia untuk menghitung N dari bianglala, yang dimulai dari angka 1. \n tiap dia sebutin angka, dia akan nyebutin “bianglala” juga",
+    "inputFormat": "Satu angka N",
+    "outputFormat": "Hitungan dari 1 sampai N dimana ada N dan “Bianglala” per baris",
+    "exampleCount": 2,
+    "reviewVideoURL": "[https://awesa.xyz/]",
+    "reviewText": "Review Text",
+    "testCases": [
+        {
+            "input": "5",
+            "output": "1 Bianglala\n2 Bianglala\n3 Bianglala\n4 Bianglala\n5 Bianglala",
+            "order": 1
+        },
+        {
+            "input": "10",
+            "output": "1 Bianglala\n2 Bianglala\n3 Bianglala\n4 Bianglala\n5 Bianglala\n6 Bianglala\n7 Bianglala\n8 Bianglala\n9 Bianglala\n10 Bianglala",
+            "order": 2
+        },
+        {
+            "input": "30",
+            "output": "1 Bianglala\n2 Bianglala\n3 Bianglala\n4 Bianglala\n5 Bianglala\n6 Bianglala\n7 Bianglala\n8 Bianglala\n9 Bianglala\n10 Bianglala\n11 Bianglala\n12 Bianglala\n13 Bianglala\n14 Bianglala\n15 Bianglala\n16 Bianglala\n17 Bianglala\n18 Bianglala\n19 Bianglala\n20 Bianglala\n21 Bianglala\n22 Bianglala\n23 Bianglala\n24 Bianglala\n25 Bianglala\n26 Bianglala\n27 Bianglala\n28 Bianglala\n29 Bianglala\n30 Bianglala",
+            "order": 3
+        }
+    ]
+}

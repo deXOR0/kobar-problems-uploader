@@ -1,0 +1,25 @@
+{
+    "prompt": "Hari ini pak polisi sedang banyak menilang orang,\n karena hari ini merupakan hari untuk plat ganjil\nsedangkan banyak kendaraan bernomor plat genap yang lewat.\n Tuliskan program yang dapat membantu pak polisi\nuntuk membedakan orang-orang yang memakai plat ganjil dan plat genap",
+    "inputFormat": "N Sekumpulan angka ganjil atau genap",
+    "outputFormat": "Print ganjil atau genap dari angka yang diinput",
+    "exampleCount": 2,
+    "reviewVideoURL": "https://awesa.xyz/",
+    "reviewText": "Review Text",
+    "testCases": [
+        {
+            "input": "1322",
+            "output": "Genap",
+            "order": 1
+        },
+        {
+            "input": "2631",
+            "output": "Ganjil",
+            "order": 2
+        },
+        {
+            "input": "1500",
+            "output": "Genap",
+            "order": 3
+        }
+    ]
+}

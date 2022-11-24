@@ -1,0 +1,25 @@
+{
+    "prompt": "Bayu merupakan seorang tukang bengkel, sanking banyaknya plat nomor yang bayu suka benerin. \n Bayu jadi sering untuk mengalikan nomor plat yang terdiri dari 4 angka tersebut. \n Cuman bayu suka salah hasil perkaliannya! Yuk bantu bayu dengan menuliskan program yang bisa mengalikan 4 angka dalam nomor plat.",
+    "inputFormat": "1 angka N yang terdiri dari 4 digit. gausah pake spasi",
+    "outputFormat": "Hasil perkalian dari 4 angka tersebut",
+    "exampleCount": 2,
+    "reviewVideoURL": "https://awesa.xyz/",
+    "reviewText": "Review Text",
+    "testCases": [
+        {
+            "input": "1234",
+            "output": "24",
+            "order": 1
+        },
+        {
+            "input": "1135",
+            "output": "15",
+            "order": 2
+        },
+        {
+            "input": "2631",
+            "output": "36",
+            "order": 3
+        }
+    ]
+}
